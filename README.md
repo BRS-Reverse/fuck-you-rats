@@ -1,3 +1,7 @@
+## Update
+
+This project is discontinued in favor of an automatic deactivaton system by utilizing GitHub Gists instead of Github Repository.
+
 ## Disclaimer [^1]
 
 This repository is part of a response to known malicious bots actively causing harm, such as facilitating financial loss, system damage, or unauthorized access to user data. The token exposed in this repository is associated with malware and is published for the sole purpose of forcing its immediate deactivation by Discord’s automated systems.
